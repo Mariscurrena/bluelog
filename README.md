@@ -16,7 +16,7 @@ Built with a cybersecurity mindset: clean, efficient, and zero-dependency.
 You can install `BlueLog` directly from GitHub using `pip`:
 
 ```bash
-pip install git+https://github.com/
+pip install git+https://github.com/Mariscurrena/bluelog
 ```
 
 ## Quick Start
